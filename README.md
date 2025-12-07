@@ -1,68 +1,81 @@
-# 👋 Hi, I'm Paras Gunjavate
+# Paras Gunjavate  
+Android Developer | Software Engineer | Open to Internships & Full-Time Roles  
 
-🚀 Aspiring **Android Developer & Full-Stack Enthusiast**  
-🎓 Computer Engineering Student | Building real-world apps with **Java, Firebase & Web Tech**  
-💡 I love turning ideas into working products using smart workflows + modern tools (yes, including AI ⚡)
-
----
-
-## 🧠 About Me
-
-- 📱 Built a **Native Android College Management App** with role-based access (Admin, Faculty, Student)
-- ☁️ Strong with **Firebase Authentication & Cloud Firestore**
-- 🧩 I focus on **real problem-solving**, not just tutorials
-- 🔁 Improving daily with consistent coding & project upgrades
-- 🎯 Career Goal: **Land a paid Android / Software Dev role**
+📍 India | 📱 Android | ☁️ Firebase | 💻 Java  
+🔎 Actively seeking opportunities in **Android Development & Software Engineering**
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 Professional Summary
 
-**Languages:**  
+I am a **Computer Engineering student and Android Developer** with hands-on experience building **secure, role-based mobile applications** using **Java and Firebase**. I specialize in converting real-world workflows into scalable mobile solutions with **real-time data sync, authentication, and approval systems**. I use modern tools (including AI) to increase development speed while fully understanding the system architecture and logic.
+
+---
+
+## 🛠 Technical Skills
+
+**Programming Languages:**  
 - Java, JavaScript  
 
-**Mobile & Web:**  
-- Android (Java, XML)  
-- HTML, CSS, JavaScript  
+**Mobile Development:**  
+- Native Android (Java, XML)  
+- Material Design Components  
 
 **Backend & Cloud:**  
 - Firebase Authentication  
-- Cloud Firestore  
+- Cloud Firestore (Real-time NoSQL Database)  
 
-**Tools:**  
+**Development Tools:**  
 - Android Studio  
 - VS Code  
 - Git & GitHub  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 📱 JCEP College Management App  
-**Tech:** Java, Firebase, Cloud Firestore  
-- Role-based login for **Admin, Faculty, Students**  
-- **Real-time announcements & timetable system**  
-- **Multi-level approval workflow** for secure onboarding  
-- Solves real college communication & admin problems  
+### 📱 JCEP College Management System – Android App  
+**Tech Stack:** Java, Firebase Authentication, Cloud Firestore, XML  
 
-🔗 Repo:(https://github.com/Paras045/JCEP-Management45)
+**Description:**  
+A full-featured college automation application with **role-based dashboards for Admin, Faculty, and Students**, built to digitize communication and administrative workflows.
 
----
+**Key Responsibilities & Features:**
+- Designed and implemented **secure role-based authentication**
+- Built **real-time announcement & timetable system** using Firestore
+- Developed a **multi-level registration approval workflow**
+- Structured Firestore database for scalable read/write operations
+- Digitized manual college communication processes
 
-## 📈 What I'm Working On
-
-- 🔥 Improving Android app performance & UI
-- 🔥 Learning Data Structures for interviews
-- 🔥 Building 1 new project for placement season
+🔗 Repository: *(Add your project link here)*
 
 ---
 
-## 🤝 Let's Connect
+## 📌 What I’m Currently Focused On
 
-- 💼 LinkedIn: https://www.linkedin.com/in/paras-gunjavate/
-- 💻 GitHub: https://github.com/Paras045
+- Strengthening **Data Structures & Algorithms**
+- Improving **Android UI/UX & performance optimization**
+- Building a second production-ready Android project
+- Preparing for **technical interviews & placements**
 
 ---
 
-⭐ If you like my work, feel free to star my repos and follow me.  
-Let’s build and grow together 🚀
+## ✅ What I Bring to a Team
+
+- Strong **problem-solving mindset**
+- Real project experience with **production-level features**
+- Ability to **design workflows and implement them cleanly**
+- Comfortable using **AI as a productivity tool**
+- Fast learner with high adaptability
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/paras-gunjavate/  
+- GitHub: https://github.com/Paras045  
+
+---
+
+📌 *Currently open to Android Developer Intern, Software Developer Intern, and Entry-Level Developer roles.*  
+⭐ If you find my work useful, feel free to follow or star my repositories.
