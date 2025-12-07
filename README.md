@@ -47,7 +47,7 @@ A full-featured college automation application with **role-based dashboards for 
 - Structured Firestore database for scalable read/write operations
 - Digitized manual college communication processes
 
-🔗 Repository: *(Add your project link here)*
+🔗 Repository: (https://github.com/Paras045/JCEP-Management45)
 
 ---
 
