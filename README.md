@@ -6,7 +6,7 @@ Android Developer | Software Engineer | Open to Internships & Full-Time Roles
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨💻 Professional Summary
 
 I am a **Computer Engineering student and Android Developer** with hands-on experience building **secure, role-based mobile applications** using **Java and Firebase**. I specialize in converting real-world workflows into scalable mobile solutions with **real-time data sync, authentication, and approval systems**. I use modern tools (including AI) to increase development speed while fully understanding the system architecture and logic.
 
@@ -19,11 +19,12 @@ I am a **Computer Engineering student and Android Developer** with hands-on expe
 
 **Mobile Development:**  
 - Native Android (Java, XML)  
-- Material Design Components  
+- Material Design Components (Material 3)  
 
 **Backend & Cloud:**  
 - Firebase Authentication  
 - Cloud Firestore (Real-time NoSQL Database)  
+- Firebase Cloud Messaging (FCM)  
 
 **Development Tools:**  
 - Android Studio  
@@ -32,7 +33,24 @@ I am a **Computer Engineering student and Android Developer** with hands-on expe
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🚌 SmartBusPass – Android App  
+**Tech Stack:** Java, Firebase Authentication, Cloud Firestore, Firebase Cloud Messaging (FCM), ZXing, XML (Material 3)  
+
+**Description:**  
+A modern, secure digital transit ticketing and pass management system featuring role-based portals for **Passengers** (ticket purchasing & dynamic QR display) and **Conductors** (real-time ticket scanning & validation).
+
+**Key Responsibilities & Features:**
+- Designed and built a dual-portal mobile workflow for transit validation.
+- Implemented **dynamic, secure QR code generation and validation** via the ZXing library.
+- Integrated **Cloud Firestore** for real-time pass verification and ticket management.
+- Leveraged **Firebase Cloud Messaging (FCM)** to send push notifications for route updates and pass approvals.
+- Designed an interactive onboarding flow and modern UI utilizing **Material Design 3** components.
+
+🔗 Repository: [github.com/Paras045/SmartBusPass](https://github.com/Paras045/SmartBusPass)
+
+---
 
 ### 📱 JCEP College Management System – Android App  
 **Tech Stack:** Java, Firebase Authentication, Cloud Firestore, XML  
@@ -47,7 +65,7 @@ A full-featured college automation application with **role-based dashboards for 
 - Structured Firestore database for scalable read/write operations
 - Digitized manual college communication processes
 
-🔗 Repository: (https://github.com/Paras045/JCEP-Management45)
+🔗 Repository: [github.com/Paras045/JCEP-Management45](https://github.com/Paras045/JCEP-Management45)
 
 ---
 
@@ -72,8 +90,8 @@ A full-featured college automation application with **role-based dashboards for 
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/paras-gunjavate/  
-- GitHub: https://github.com/Paras045  
+- LinkedIn: [linkedin.com/in/paras-gunjavate](https://www.linkedin.com/in/paras-gunjavate/)  
+- GitHub: [github.com/Paras045](https://github.com/Paras045)  
 
 ---
 
